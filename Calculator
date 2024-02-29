@@ -9,3 +9,5 @@ cout<< "The sum of two numbers is :" << a+b << endl;
 cout<< "The subtraction of two numbers is :" << a-b << endl;
 
 cout<< "The Product of two numbers is :" << a*b << endl;
+cout<< "The division of two numbers is :" << a/b << endl;
+}
